@@ -1,0 +1,19 @@
+{
+  "name": "notionautopage",
+  "version": "0.0.1",
+  "description": "Criação de páginas em um Banco de dados existente notion",
+  "main": "ads.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FelipeNemo/NotionAutoPage.git"
+  },
+  "author": "Felipe Augusto Batista Mendes dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeNemo/NotionAutoPage/issues"
+  },
+  "homepage": "https://github.com/FelipeNemo/NotionAutoPage#readme"
+}
